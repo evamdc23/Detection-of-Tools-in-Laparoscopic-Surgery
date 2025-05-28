@@ -19,3 +19,8 @@ The code is divided into different phases:
 
 
 ![cholec80_dificiles_video18_frame_09750](https://github.com/user-attachments/assets/4b2bc65d-d81e-4839-bbf5-9beaf5ada595)
+
+*References*
+- A.P. Twinanda, S. Shehata, D. Mutter, J. Marescaux, M. de Mathelin, N. Padoy. EndoNet: A Deep Architecture for Recognition Tasks on Laparoscopic Videos. IEEE Trans. on Medical Imaging 2016.
+- C.I. Nwoye, K. Elgohary, A. Srinivas, F. Zaid, J.L. Lavanchy, N. Padoy, CholecTrack20: A Multi-Perspective Tracking Dataset for Surgical Tools, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
+- Aneeq Zia, Max Berniker, Rogerio Nespolo, Conor Perreault, Ziheng Wang, Benjamin Mueller, Ryan Schmidt, Kiran Bhattacharyya, Xi Liu, and Anthony Jarc. Surgical visual understanding (surgvu) dataset, 2025.
