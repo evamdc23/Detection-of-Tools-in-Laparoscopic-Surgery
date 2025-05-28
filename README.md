@@ -16,3 +16,6 @@ The code is divided into different phases:
 7. **Validation with a different dataset**: the improved model, in addition to having been validated with the previous dataset, is re-validated with a dataset that it has not seen (in my case I have used the 'Testing' videos provided by CholecTrack20).
 8. **Comparison of all the validations**: the metrics obtained from all the validations of the trained models are compared.
 9. **Re-do point 4 and 5 with the new model**: the 4 trained models are checked with the inference dataset, and each model is catalogued (it must be taken into account that this dataset does not have real bounding boxes), and the tools are tracked with the improved model.
+
+
+![cholec80_dificiles_video18_frame_09750](https://github.com/user-attachments/assets/4b2bc65d-d81e-4839-bbf5-9beaf5ada595)
